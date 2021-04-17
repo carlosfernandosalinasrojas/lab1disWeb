@@ -1,0 +1,86 @@
+#contenedor-padre{
+    max-width: 900px;
+    margin-left: 20%;
+}
+.contHeader{
+    text-align: center;
+    background-color: rgb(148, 5, 5);
+    height: 240px;
+}
+.textHeader{
+    margin-top: 15px;
+    color: white;
+    text-align: left;
+    font-size: 1.2rem;
+}
+.menu{ 
+    background-color: rgb(3, 165, 194);
+    height: 80px;
+}
+.boton-menu{
+    width: 130px;
+    border: 2px solid black;
+    text-align: left;
+    padding: 5px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.contenido{
+    padding-top: 25px;
+    background-color: rgb(94, 173, 247);
+    text-align: center;
+    font-size: 1.2rem;
+}
+.contenido p{
+    margin-bottom: 0;
+    text-align: center;
+}
+.subtitulo{
+    font-weight: bold;
+    font-size: 1.4rem;
+}
+
+
+.contFooter{
+    text-align: left;
+    height: 250px;
+    text-decoration:underline;
+}
+
+.footer-red{
+    background-color: red;
+    max-width: 300px;
+}
+.footer-yellow{
+    background-color: yellow;
+    max-width: 300px;
+}
+.footer-green{
+    background-color: green;
+    max-width: 300px;
+}
+
+.cont-tabla{
+    margin-left: 15%;
+    padding-bottom: 15px;
+}
+.tabla tr{
+    border: solid 2px black;
+}
+.tabla th{
+    border: solid 2px black;
+    padding: 7px;
+}
+.tabla td{
+    border: solid 2px black;
+    padding: 7px;
+}
+
+.tabTit{
+    background-color: rgb(0, 162, 255);
+    color: white;
+}
+.tabBack{
+    background-color: rgb(0, 217, 255) ;
+}
